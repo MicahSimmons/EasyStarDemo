@@ -16,6 +16,7 @@ class ObjPaceCar extends ObjBaseCar {
     create () {
         super.create();
         this.scene.cameras.main.startFollow(this);
+        this.scene.cameras.main.setLerp(0.2);
     }
 }
 

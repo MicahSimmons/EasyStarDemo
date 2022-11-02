@@ -90,6 +90,7 @@ class ObjBaseCar extends Phaser.Physics.Arcade.Sprite {
         this.setInteractive();
         this.on("pointerdown", () => { 
           this.scene.cameras.main.startFollow(this);
+          this.scene.cameras.main.setLerp(0.2);
         })
       
     }
