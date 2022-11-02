@@ -1,0 +1,55 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Racetrack.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "RaceBackground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Racetrack.tmx": {
+            "scale": 0.55,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 4149.090909090909,
+                "y": 1920
+            }
+        },
+        "Racetrack.tmx#Markers": {
+            "scaleInDock": 1
+        },
+        "Racetrack.tmx#RaceBackground": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/msimmons/Desktop/Race Demo",
+    "last.imagePath": "/Users/msimmons/Desktop/Race Demo/Tiled",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+        "RaceBackground.tsx",
+        "Racetrack.tmx"
+    ],
+    "project": "RaceDemo.tiled-project",
+    "recentFiles": [
+        "RaceBackground.tsx",
+        "Racetrack.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}

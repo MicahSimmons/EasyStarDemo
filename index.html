@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Easystar Demo</title>
+
+  <link href="./style/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="gamecontainer">
+    <div class="gamegrid" id="tron"></div>
+  </div>
+  
+  <script src="./resources/phaser.min.js"></script>
+  <script src="./resources/easystar-0.4.4.min.js"></script>
+  <script src="./scripts/gridloader.js"></script>
+  <script src="./scripts/obj_waypoint.js"></script>
+  <script src="./scripts/obj_basecar.js"></script>
+  <script src="./scripts/obj_pacecar.js"></script>
+  <script src="./scripts/scene_demo.js"></script>
+  <script src="./scripts/main.js"></script>
+  <script>
+    var game_obj = new Game("tron");
+  </script>
+</body>
+
+</html>
